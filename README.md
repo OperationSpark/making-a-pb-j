@@ -1,6 +1,8 @@
 # Making a Peanut Butter and Jelly Sandwich
 From MIT's [Summer of Innovation Zero Robotics program](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/6/6a/Peanut-Butter-Jelly-Sandwich.png" width="700">
+
 ## Educational Objective
 
 This activity will introduce students to several computer science concepts. Students will learn the necessity
